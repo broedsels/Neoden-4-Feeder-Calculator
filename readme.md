@@ -12,5 +12,5 @@ https://github.com/broedsels/Neoden-4-Feeder-Calculator/archive/master.zip
 * Execute the .msi file.
 
 ## Become a Patron!
-Help me with a small contribution a month, so I can dedicate more time on programming and designing.
+Help me with a small contribution a month, a cup of Java or a nice beer, so I can dedicate more time on programming and designing.
 https://www.patreon.com/MyMakerspace
