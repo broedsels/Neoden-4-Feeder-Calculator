@@ -2,6 +2,12 @@
 
 This repository is for the Neoden 4 Feeder Calculation program.
 
+With this program you can easily calculate the number of feeders that can be added per site.
+
+Select the minimum you need per bank. 
+Then doubleclick on the size you want to fill the bank with.
+
+-------------------------------------------
 To download the program use following link:
 
 https://github.com/broedsels/Neoden-4-Feeder-Calculator/archive/master.zip
